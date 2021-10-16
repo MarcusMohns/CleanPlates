@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Tidy Plates
+## Notes: Modifies the default Blizzard nameplates
+## Author: Binny/Danltiger
+## Version: 5.7.8
+## SavedVariables: TidyPlatesVariables
+
+TidyPlates.lua
+Template.lua
+Extras.lua
