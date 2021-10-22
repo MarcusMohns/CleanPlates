@@ -19,7 +19,7 @@ config.threatborder = {
 	width = 256,
 	height = 64,
 	x = 0,
-	y = 5,
+	y = 20,
 	anchor = "CENTER",
 }
 config.healthborder = {
@@ -29,7 +29,7 @@ config.healthborder = {
 	width = 256,
 	height = 64,
 	x = 0,
-	y = 5,
+	y = 20,
 	anchor = "CENTER",
 }
 config.castborder = {
@@ -37,7 +37,7 @@ config.castborder = {
 	width = 256,
 	height = 64,
 	x = 0,
-	y = -10,
+	y = 5,
 	anchor = "CENTER",
 }
 
@@ -46,7 +46,7 @@ config.castnostop = {
 	width = 256,
 	height = 64,
 	x = 0,
-	y = -10,
+	y = 5,
 	anchor = "CENTER",
 }
 --[[Bar Textures]]--
@@ -55,7 +55,7 @@ config.healthbar = {
 	width = 120,
 	height = 10,
 	x = 0,
-	y = 5,
+	y = 20,
 	anchor = "CENTER",
 	orientation = "HORIZONTAL",
 }
@@ -64,7 +64,7 @@ config.castbar = {
 	width = 120,
 	height = 10,
 	x = 0,
-	y = -10,
+	y = 5,
 	anchor = "CENTER",
 	orientation = "HORIZONTAL",
 }
@@ -76,7 +76,7 @@ config.name = {
 	width = 120,
 	height = 14,
 	x = 0,
-	y = 20,
+	y = 21,
 	align = "CENTER",
 	anchor = "CENTER",
 	vertical = "CENTER",
@@ -88,7 +88,7 @@ config.level = {
 	width = 20,
 	height = 14,
 	x = 50,
-	y = 5,
+	y = 20,
 	align = "RIGHT",
 	anchor = "CENTER",
 	vertical = "TOP",
@@ -100,7 +100,7 @@ config.specialText = {
 	width = 90,
 	height = 14,
 	x = 0,
-	y = 6,
+	y = 21,
 	align = "CENTER",
 	anchor = "CENTER",
 	vertical = "CENTER",
@@ -112,7 +112,7 @@ config.specialText2 = {
 	width = 90,
 	height = 14,
 	x = 0,
-	y = -8,
+	y = 7,
 	align = "CENTER",
 	anchor = "CENTER",
 	vertical = "CENTER",
@@ -124,7 +124,7 @@ config.specialText3 = {
 	width = 90,
 	height = 14,
 	x = -30,
-	y = 18,
+	y = 33,
 	align = "LEFT",
 	anchor = "CENTER",
 	vertical = "CENTER",
@@ -135,28 +135,28 @@ config.dangerskull = {
 	width = 14,
 	height = 14,
 	x = 58,
-	y = 17,
+	y = 32,
 	anchor = "CENTER",
 }
 config.specialArt = {
 	width = 22,
 	height = 22,
 	x = -74,
-	y = -2,
+	y = 13,
 	anchor = "CENTER",
 }
 config.spellicon = {
 	width = 20,
 	height = 20,
 	x = 75,
-	y = -2,
+	y = 13,
 	anchor = "CENTER",
 }
 config.raidicon = {
 	width = 14,
 	height = 14,
 	x = 0,
-	y = 17,
+	y = 32,
 	anchor = "TOP",
 }
 --[[OPTIONS]]--
